@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 })
 export class Counter  {
   counter: number;
+  
   constructor() {
     this.counter = 0;
   }
